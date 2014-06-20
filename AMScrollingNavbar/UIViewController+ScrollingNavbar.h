@@ -39,6 +39,8 @@
  */
 - (void)showNavbar;
 
+- (void)updateNavbar;
+
 /** Navbar slide down
  *
  * Manually show the navbar
